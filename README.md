@@ -8,6 +8,13 @@
 
 I'm Habit. When an idea catches my curiosity, I explore it through small experiments, with AI lending a hand.
 
+### AI-managed alternate accounts
+
+These two alternate accounts are managed by AI.
+
+- [Habit098](https://github.com/Habit098)
+- [habit-grokbot](https://github.com/habit-grokbot)
+
 ### Selected projects
 
 - **LLM-assisted input exploration** — Experimental context-aware candidate reranking: [squirrel](https://github.com/Habit130/squirrel) and [librime-llm-rerank](https://github.com/Habit130/librime-llm-rerank) on [Rime/Squirrel](https://github.com/rime/squirrel).

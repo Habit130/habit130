@@ -42,8 +42,11 @@ GitHub issue 是唯一验收合同正文。
 
 - GitHub Profile README: 根 `README.md` 为英文默认版，由 GitHub 在个人主页展示；
   `README.zh-CN.md` 为等价简体中文版，保留 English 项目与专业术语，双向切换。
-- Public identity: 仅使用 Habit、已确认的兴趣驱动探索与 AI 辅助实践、精选项目；
-  不推断或公开职业、履历、联系方式或个人生活信息。
+- Public identity: 仅使用 Habit、已确认的兴趣驱动探索与 AI 辅助实践、精选项目，
+  以及 habit 确认公开、由 AI 托管的两个小号：
+  [Habit098](https://github.com/Habit098) 与
+  [habit-grokbot](https://github.com/habit-grokbot)；
+  主页明确说明这两个账号由 AI 托管，不推断或公开职业、履历、联系方式或个人生活信息。
 - Static assets: `assets/profile/` 下的原创静态向量字标与低高度页头，
   使用 light/dark treatment 和 fallback，不依赖外部字体或图片服务。
 - Governance: 仓库协作边界、任务合同、验证及交付协议，
