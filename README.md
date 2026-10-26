@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/habit-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile/habit-light.svg">
-  <img src="assets/profile/habit-light.svg" alt="Habit — original handwritten wordmark" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/Habit_logo_white_transparent.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/Habit_logo_black_transparent.svg">
+  <img src="assets/profile/Habit_logo_black_transparent.svg" alt="Habit — illustration and handwritten wordmark" width="720">
 </picture>
 
 [简体中文](README.zh-CN.md)
