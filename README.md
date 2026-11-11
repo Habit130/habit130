@@ -1,22 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/Habit_logo_white_transparent.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile/Habit_logo_black_transparent.svg">
-  <img src="assets/profile/Habit_logo_black_transparent.svg" alt="Habit — illustration and handwritten wordmark" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/habit-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/habit-header-light.svg">
+  <img src="assets/profile/habit-header-light.svg" alt="A hand-drawn companion figure beside the word habit, written in one stroke" width="720">
 </picture>
 
 [简体中文](README.zh-CN.md)
 
-I'm Habit. When an idea catches my curiosity, I explore it through small experiments, with AI lending a hand.
+I'm Habit. When an idea makes me curious, I build a small experiment to see where it goes — usually with AI as a collaborator.
 
-### AI-managed alternate accounts
-
-These two alternate accounts are managed by AI.
-
-- [Habit098](https://github.com/Habit098)
-- [habit-grokbot](https://github.com/habit-grokbot)
+[Habit098](https://github.com/Habit098) is the account my AI agents work from.
 
 ### Selected projects
 
-- **LLM-assisted input exploration** — Experimental context-aware candidate reranking: [squirrel](https://github.com/Habit130/squirrel) and [librime-llm-rerank](https://github.com/Habit130/librime-llm-rerank) on [Rime/Squirrel](https://github.com/rime/squirrel).
-- **[CV research practice](https://github.com/Habit130/cv-research-practice)** — In-progress scaffold: paper reading, reproduction, experiment logs, comparisons and reports.
-- **[CropGuard](https://github.com/Habit130/MiniGPT-4)** — Crop-image visual Q&A built on [MiniGPT-v2](https://github.com/Vision-CAIR/MiniGPT-4); no substitute for professional diagnosis.
+- **[agent-repo-governance](https://github.com/Habit130/agent-repo-governance)** — A personal governance setup for repositories built with coding agents: session roles, review gates and merge rules across Claude Code, OpenCode and Codex.
+- **LLM-assisted input** — Reranking input-method candidates by context, as an experiment on [Rime/Squirrel](https://github.com/rime/squirrel): [squirrel](https://github.com/Habit130/squirrel) and [librime-llm-rerank](https://github.com/Habit130/librime-llm-rerank).
+- **[CV research practice](https://github.com/Habit130/cv-research-practice)** — A work-in-progress workflow for reading papers, reproducing them, and logging and comparing experiments.
